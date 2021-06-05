@@ -1,0 +1,253 @@
+@charset "utf-8";
+
+
+/*photoshop用*/
+.text-photoshop {
+	color: #2FA3F7;	
+}
+
+.bg-photoshop {
+	background-color: #001D34;	
+}
+
+.btn-outline-photoshop {
+  color: #2FA3F7;
+  border-color: #001D34;
+}
+
+.btn-outline-photoshop:hover {
+  color: #2FA3F7;
+  background-color: #001D34;
+}
+
+.btn-outline-photoshop:focus, .btn-outline-photoshop.focus {
+  box-shadow: 0 0 0 0.2rem rgba(248, 249, 250, 0.5);
+}
+
+.btn-outline-photoshop.disabled, .btn-outline-photoshop:disabled {
+  color: #f8f9fa;
+  background-color: transparent;
+}
+
+.btn-outline-photoshop:not(:disabled):not(.disabled):active, .btn-outline-photoshop:not(:disabled):not(.disabled).active,
+.show > .btn-outline-photoshop.dropdown-toggle {
+  color: #212529;
+  background-color: #001D34;
+}
+
+.btn-outline-photoshop:not(:disabled):not(.disabled):active:focus, .btn-outline-photoshop:not(:disabled):not(.disabled).active:focus,
+.show > .btn-outline-light.dropdown-toggle:focus {
+  box-shadow: 0 0 0 0.2rem rgba(248, 249, 250, 0.5);
+}
+
+.photoshop_link {
+	color: #2FA3F7;
+}
+
+/*illustrator用設定*/
+.text-illustrator {
+	color: #ff9a00;	
+}
+
+.bg-illustrator {
+	background-color: #330000;	
+}
+
+.btn-outline-illustrator {
+  color: #ff9a00;
+  border-color: #330000;
+}
+
+.btn-outline-illustrator:hover {
+  color: #ff9a00;
+  background-color: #330000;
+}
+
+.btn-outline-illustrator:focus, .btn-outline-illustrator.focus {
+  box-shadow: 0 0 0 0.2rem rgba(248, 249, 250, 0.5);
+}
+
+.btn-outline-illustrator.disabled, .btn-outline-illustrator:disabled {
+  color: #ff9a00;
+  background-color: transparent;
+}
+
+.btn-outline-illustrator:not(:disabled):not(.disabled):active, .btn-outline-illustrator:not(:disabled):not(.disabled).active,
+.show > .btn-outline-illustrator.dropdown-toggle {
+  color: #ff9a00;
+  background-color: #330000;
+}
+
+.btn-outline-illustrator:not(:disabled):not(.disabled):active:focus, .btn-outline-illustrator:not(:disabled):not(.disabled).active:focus,
+.show > .btn-outline-light.dropdown-toggle:focus {
+  box-shadow: 0 0 0 0.2rem rgba(248, 249, 250, 0.5);
+}
+
+.illustrator_link {
+	color: #ff9a00;
+}
+
+/*XD用設定*/
+
+.text-xd {
+	color: #ff61f6;	
+}
+
+.bg-xd {
+	background-color: #470137;	
+}
+
+
+.btn-outline-xd {
+  color: #ff61f6;
+  border-color: #470137;
+}
+
+.btn-outline-xd:hover {
+  color: #ff61f6;
+  background-color: #470137;
+}
+
+.btn-outline-xd:focus, .btn-outline-xd.focus {
+  box-shadow: 0 0 0 0.2rem rgba(248, 249, 250, 0.5);
+}
+
+.btn-outline-xd.disabled, .btn-outline-xd:disabled {
+  color: #ff61f6;
+  background-color: transparent;
+}
+
+.btn-outline-xd:not(:disabled):not(.disabled):active, .btn-outline-xd:not(:disabled):not(.disabled).active,
+.show > .btn-outline-xd.dropdown-toggle {
+  color: #ff61f6;
+  background-color: #470137;
+}
+
+.btn-outline-xd:not(:disabled):not(.disabled):active:focus, .btn-outline-xd:not(:disabled):not(.disabled).active:focus,
+.show > .btn-outline-light.dropdown-toggle:focus {
+  box-shadow: 0 0 0 0.2rem rgba(248, 249, 250, 0.5);
+}
+
+.xd_link {
+	color: #ff61f6;
+}
+
+
+/*Lightroom用設定*/
+.text-lightroom {
+	color: #31a8ff;	
+}
+
+.bg-lightroom {
+	background-color: #001e36;	
+}
+
+.btn-outline-lightroom {
+  color: #31a8ff;
+  border-color: #001e36;
+}
+
+.btn-outline-lightroom:hover {
+  color: #31a8ff;
+  background-color: #001e36;
+}
+
+.btn-outline-lightroom:focus, .btn-outline-lightroom.focus {
+  box-shadow: 0 0 0 0.2rem rgba(248, 249, 250, 0.5);
+}
+
+.btn-outline-lightroom.disabled, .btn-outline-lightroom:disabled {
+  color: #31a8ff;
+  background-color: transparent;
+}
+
+.btn-outline-lightroom:not(:disabled):not(.disabled):active, .btn-outline-lightroom:not(:disabled):not(.disabled).active,
+.show > .btn-outline-lightroom.dropdown-toggle {
+  color: #31a8ff;
+  background-color: #001e36;
+}
+
+.btn-outline-lightroom:not(:disabled):not(.disabled):active:focus, .btn-outline-lightroom:not(:disabled):not(.disabled).active:focus,
+.show > .btn-outline-light.dropdown-toggle:focus {
+  box-shadow: 0 0 0 0.2rem rgba(248, 249, 250, 0.5);
+}
+
+.lightroom_link {
+	color: #31a8ff;
+}
+
+
+/*Premiere pro用設定*/
+
+.text-premiere_pro {
+	color: #9999ff;	
+}
+
+.bg-premiere_pro {
+	background-color: #00005b;	
+}
+
+.btn-outline-premiere_pro {
+  color: #9999ff;
+  border-color: #00005b;
+}
+
+.btn-outline-premiere_pro:hover {
+  color: #9999ff;
+  background-color: #00005b;
+}
+
+.btn-outline-premiere_pro:focus, .btn-outline-premiere_pro.focus {
+  box-shadow: 0 0 0 0.2rem rgba(248, 249, 250, 0.5);
+}
+
+.btn-outline-premiere_pro.disabled, .btn-outline-premiere_pro:disabled {
+  color: #9999ff;
+  background-color: transparent;
+}
+
+.btn-outline-premiere_pro:not(:disabled):not(.disabled):active, .btn-outline-premiere_pro:not(:disabled):not(.disabled).active,
+.show > .btn-outline-premiere_pro.dropdown-toggle {
+  color: #9999ff;
+  background-color: #00005b;
+}
+
+.btn-outline-premiere_pro:not(:disabled):not(.disabled):active:focus, .btn-outline-premiere_pro:not(:disabled):not(.disabled).active:focus,
+.show > .btn-outline-light.dropdown-toggle:focus {
+  box-shadow: 0 0 0 0.2rem rgba(248, 249, 250, 0.5);
+}
+
+.premiere_pro_link {
+	color: #9999ff;
+}
+
+/*フォーム*/
+
+form {
+	background:#ECF5FE;
+	border-radius: 10px;	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
